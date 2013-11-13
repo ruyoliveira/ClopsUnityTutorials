@@ -1,5 +1,4 @@
-
-CLOPS Unity Tuorials
+CLOPS Unity Tutorials
 ====================
 This Repository has unity tutorial projects destined to teach Unity3D newcomers and students.
 These projects were developed by Clops Game Studio.
